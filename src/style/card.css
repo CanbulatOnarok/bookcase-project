@@ -18,22 +18,42 @@
     margin-left: 10px;
     float: left;
 }
-button{
+button.delete{
     position: absolute;
     top: 0;
     left: 0;
     border: none;
     height: 300px;
-    width: 20px;
+    width: 240px;
     background-color: red;
-    color: white;
-    border-radius: 15px 0 0 15px;
+    color: black;
+    border-radius: 15px 0px 0px 15px;
     opacity: 0;
-    transition: .6s;
-    font-size: 25px;
+    transition: 1.3s;
+    font-size: 50px;
 }
-button:hover{
+button.delete:hover{
     width: 200px;
     opacity: 0.7;
     cursor: pointer; 
 }
+button.edit{
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: none;
+    height: 300px;
+    width: 240px;
+    background-color: yellow;
+    color: black;
+    border-radius: 0px 15px 15px 0px;
+    opacity: 0;
+    transition: 1.3s;
+    font-size: 50px;
+}
+button.edit:hover{
+    width: 250px;
+    opacity: 0.7;
+    cursor: pointer; 
+}
+
