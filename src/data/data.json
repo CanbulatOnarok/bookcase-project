@@ -1,20 +1,20 @@
 {
   "kitaplar": [
     {
-      "id": 1,
       "kitapAdi": "Kafamda Bir Tuhaflık",
       "kitapKategori": "Edebiyat",
       "kitapYazari": "Orhan Pamuk",
       "sayfaSayisi": 480,
       "kitapResim": "https://img.kitapyurdu.com/v1/getImage/fn:5192424/wh:true/wi:220",
-      "kitapAciklama": "Kafamda Bir Tuhaflık hem bir aşk hikâyesi hem de modern bir destan. Orhan Pamuk’un üzerinde altı yıl çalıştığı roman, bozacı Mevlut ile üç yıl aşk mektupları yazdığı sevgilisinin İstanbul’daki hayatlarını hikâye ediyor."
+      "kitapAciklama": "Kafamda Bir Tuhaflık hem bir aşk hikâyesi hem de modern bir destan. Orhan Pamuk’un üzerinde altı yıl çalıştığı roman, bozacı Mevlut ile üç yıl aşk mektupları yazdığı sevgilisinin İstanbul’daki hayatlarını hikâye ediyor.",
+      "id": 1
     },
     {
       "id": 2,
       "kitapAdi": "Kapsamlı Python Kursu",
       "kitapKategori": "Yazılım",
       "kitapYazari": "Eric Matthes",
-      "sayfaSayisi": 608,
+      "sayfaSayisi": "608",
       "kitapResim": "https://static.ticimax.cloud/30373/uploads/urunresimleri/kapsamli-python-kursu-programlamaya-uy-3e965f.jpg",
       "kitapAciklama": "Kapsamlı Python Kursu, dünyada Python programlama dili için yazılmış en çok satan ve beğenilen kitaptır. Python ile programlamaya bu hızlı giriş sayesinde programlar yazacak, problemleri çözecek ve işlerinizi çabucak halledeceksiniz."
     },
