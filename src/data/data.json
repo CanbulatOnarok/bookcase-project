@@ -1,13 +1,13 @@
 {
   "kitaplar": [
     {
+      "id": 1,
       "kitapAdi": "Kafamda Bir Tuhaflık",
       "kitapKategori": "Edebiyat",
       "kitapYazari": "Orhan Pamuk",
-      "sayfaSayisi": 480,
+      "sayfaSayisi": "480",
       "kitapResim": "https://img.kitapyurdu.com/v1/getImage/fn:5192424/wh:true/wi:220",
-      "kitapAciklama": "Kafamda Bir Tuhaflık hem bir aşk hikâyesi hem de modern bir destan. Orhan Pamuk’un üzerinde altı yıl çalıştığı roman, bozacı Mevlut ile üç yıl aşk mektupları yazdığı sevgilisinin İstanbul’daki hayatlarını hikâye ediyor.",
-      "id": 1
+      "kitapAciklama": "Kafamda Bir Tuhaflık hem bir aşk hikâyesi hem de modern bir destan. Orhan Pamuk’un üzerinde altı yıl çalıştığı roman, bozacı Mevlut ile üç yıl aşk mektupları yazdığı sevgilisinin İstanbul’daki hayatlarını hikâye ediyor."
     },
     {
       "id": 2,
@@ -116,6 +116,15 @@
       "sayfaSayisi": "365",
       "kitapResim": "https://img.kitapyurdu.com/v1/getImage/fn:11629428/wh:true/wi:220",
       "kitapAciklama": "Avuçlarınızın içinde tuttuğunuz Büyük Sır Asırlar boyunca elden ele dolaştı. Ona gıpta ettiler. Sakladılar. Kayboldu, çalındı ve inanılmaz paralara satın alındı. Tarihin en önemli kişilerinden bazıları bu yüzyıllar yaşındaki Sır’rı çözmüştü. Platon, Galileo, Beethoven, Edison, Carnegie ve Einstein’ın yanı sıra kimi kaşifler, teologlar, bilim adamları ve büyük düşünürlerin çoğu Secret’a hakimdi. Sır, şimdi dünyaya açıklanıyor."
+    },
+    {
+      "id": 14,
+      "kitapAdi": "Kürk Mantolu Madonna",
+      "kitapKategori": "Edebiyat",
+      "kitapYazari": "Sabahattin Ali ",
+      "sayfaSayisi": "160",
+      "kitapResim": "https://img.kitapyurdu.com/v1/getImage/fn:1207631/wh:true/wi:220",
+      "kitapAciklama": "\"Her gün, daima öğleden sonra oraya gidiyor, koridorlardaki resimlere bakıyormuş gibi ağır ağır, fakat büyük bir sabırsızlıkla asıl hedefine varmak isteyen adımlarımı zorla zapt ederek geziniyor, rastgele gözüme çarpmış gibi önünde durduğum \"Kürk Mantolu Madonna\"yı seyre dalıyor, ta kapılar kapanıncaya kadar orada bekliyordum.\" Kimi tutkular rehberimiz olur yaşam boyunca. Kollarıyla bizi sarar. Sorgulamadan peşlerinden gideriz ve hiç pişman olmayacağımızı biliriz. Yapıtlarında insanların görünmeyen yüzlerini ortaya çıkaran Sabahattin Ali, bu kitabında güçlü bir tutkunun resmini çiziyor. Düzenin sildiği kişiliklere, yaşamın uçuculuğuna ve aşkın olanaksızlığına (?) dair, yanıtlanması zor sorular soruyor."
     }
   ],
   "kategoriler": [

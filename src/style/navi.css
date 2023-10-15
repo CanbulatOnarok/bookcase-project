@@ -26,6 +26,18 @@ nav img {
 .kategori ul li:hover{
     text-decoration: underline;
     transform: scale(1.3);
-    color: orangered;
+    color: black;
     cursor: pointer;
+}
+input{
+    padding: 8px 10px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+input:focus{
+    font-size: 15px;
+   font-weight: bold;
+   outline: 3px solid black;
+   color: black;
 }
